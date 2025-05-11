@@ -1,7 +1,6 @@
 ![Nopal](./img/Header.png)
 👋 Hi there, I’m Naufal!<br>I’m an Information Systems student at Bina Sarana Informatika University (6th semester) with a strong interest in full-stack web development and digital product development.<br><br>🔧 Tech Stack:<br><br>Frontend: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript<br><br>Backend: Node.js, PHP, Express.js<br><br>Database: MySQL, MongoDB<br><br>🎓 Alumni Bangkit Academy<br>💼 Internship experience at PT. Kawan Kerja, currently interning at Bantu<br>🌱 Eager to learn more about SAP, enterprise systems, and scalable architectures<br>💡 Passionate about solving real-world problems with tech<br>📈 Actively looking for freelance opportunities and job openings in web development<br><br>📬 Let’s connect! Reach out via LinkedIn or email.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0pal_06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadnaufalsaputra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadnaufalsaputra06@gmail.com) 
 
