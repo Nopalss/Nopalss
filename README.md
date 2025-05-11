@@ -1,7 +1,8 @@
 ![Nopal](./img/header.png)
 <br>
 <br>
-👋 Hi there, I’m Naufal!<br>I’m an Information Systems student at Bina Sarana Informatika University (6th semester) with a strong interest in full-stack web development and digital product development.<br><br>🔧 Tech Stack:<br><br>Frontend: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript<br><br>Backend: Node.js, PHP, Express.js<br><br>Database: MySQL, MongoDB<br><br>🎓 Alumni Bangkit Academy<br>💼 Internship experience at PT. Kawan Kerja, currently interning at Bantu<br>🌱 Eager to learn more about SAP, enterprise systems, and scalable architectures<br>💡 Passionate about solving real-world problems with tech<br>📈 Actively looking for freelance opportunities and job openings in web development<br><br>📬 Let’s connect! Reach out via LinkedIn or email.
+<h1>👋 Hi there, I’m <b>Nopalss</b>!</h1>
+<br>I’m an Information Systems student at Bina Sarana Informatika University (6th semester) with a strong interest in full-stack web development and digital product development.<br><br>🔧 Tech Stack:<br><br>Frontend: React.js, Next.js, Vue.js, HTML, CSS, JavaScript, TypeScript<br><br>Backend: Node.js, PHP, Express.js<br><br>Database: MySQL, MongoDB<br><br>🎓 Alumni Bangkit Academy<br>💼 Internship experience at PT. Kawan Kerja, currently interning at Bantu<br>🌱 Eager to learn more about SAP, enterprise systems, and scalable architectures<br>💡 Passionate about solving real-world problems with tech<br>📈 Actively looking for freelance opportunities and job openings in web development<br><br>📬 Let’s connect! Reach out via LinkedIn or email.
 
 
 ## 🌐 Socials:
